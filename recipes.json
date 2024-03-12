@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Butter Chicken",
+    "ingredients": ["chicken", "butter", "onion", "tomato", "cream", "spices", "garlic", "ginger", "chili powder", "kasuri methi"],
+    "instructions": "Marinate chicken with yogurt, ginger-garlic paste, and spices. Grill or cook in a tandoor until partially cooked. Prepare a sauce with butter, onion, tomato, and spices. Add cream and cooked chicken to the sauce. Finish with kasuri methi and serve hot."
+  },
+  {
+    "name": "Palak Paneer",
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "cream", "spices", "garlic", "ginger", "cumin seeds"],
+    "instructions": "Blanch spinach and blend into a smooth puree. Sauté cumin seeds, onion, garlic, and ginger. Add tomato and spices, then stir in the spinach puree. Add cubed paneer and cream, simmer until heated through, and serve."
+  },
+  {
+    "name": "Chole (Chickpea Curry)",
+    "ingredients": ["chickpeas", "onion", "tomato", "ginger", "garlic", "spices", "tea bags", "amchur powder"],
+    "instructions": "Soak chickpeas overnight, then pressure cook until tender. Sauté onion, ginger, and garlic until golden. Add spices and chopped tomato, cook until soft. Add cooked chickpeas and simmer. Garnish with amchur powder before serving."
+  },
+  {
+    "name": "Rogan Josh",
+    "ingredients": ["lamb", "yogurt", "onion", "tomato", "ginger", "garlic", "spices", "ghee", "saffron", "kewra water"],
+    "instructions": "Marinate lamb in yogurt and spices. Sauté onion, ginger, and garlic in ghee. Add tomato and spices, cook until oil separates. Add marinated lamb, water, and cook until tender. Finish with saffron-infused water and kewra water."
+  },
+  {
+    "name": "Biryani",
+    "ingredients": ["rice", "chicken/mutton", "yogurt", "onion", "tomato", "spices", "saffron", "mint leaves", "fried onions", "ghee"],
+    "instructions": "Marinate meat in yogurt and spices. Parboil rice and layer it with cooked meat, fried onions, mint leaves, and saffron-infused milk. Seal and cook until rice is tender. Serve hot with raita."
+  },
+  {
+    "name": "Masoor Dal",
+    "ingredients": ["red lentils", "onion", "tomato", "ginger", "garlic", "spices", "ghee", "cumin seeds"],
+    "instructions": "Boil lentils until soft. Sauté cumin seeds, onion, ginger, and garlic in ghee. Add chopped tomato and spices, cook until thick. Stir in cooked lentils and simmer. Garnish with cilantro and serve."
+  },
+  {
+    "name": "Aloo Gobi",
+    "ingredients": ["potatoes", "cauliflower", "onion", "tomato", "ginger", "garlic", "spices", "turmeric", "mustard seeds"],
+    "instructions": "Sauté mustard seeds, onion, ginger, and garlic. Add chopped tomato and spices, cook until soft. Add cubed potatoes and cauliflower florets, stir well. Cover and cook until vegetables are tender. Serve hot."
+  },
+  {
+    "name": "Paneer Tikka",
+    "ingredients": ["paneer", "bell peppers", "onion", "yogurt", "spices", "ginger-garlic paste", "lemon juice", "kasuri methi"],
+    "instructions": "Marinate paneer cubes, bell peppers, and onion in yogurt, spices, and lemon juice. Skewer and grill until charred. Sprinkle with kasuri methi and serve hot."
+  },
+  {
+    "name": "Samosa",
+    "ingredients": ["potatoes", "peas", "onion", "spices", "flour", "ghee", "oil"],
+    "instructions": "Boil potatoes, mash, and mix with peas, sautéed onion, and spices. Make a dough with flour, ghee, and water. Fill with potato mixture, shape into triangles, and deep fry until golden brown. Serve hot with chutney."
+  },
+  {
+    "name": "Dosa",
+    "ingredients": ["rice", "urad dal", "fenugreek seeds", "salt", "oil"],
+    "instructions": "Soak rice, urad dal, and fenugreek seeds for a few hours. Grind into a smooth batter, ferment overnight. Heat a griddle, pour batter, and spread into a thin circle. Cook until golden, fold, and serve with chutney and sambar."
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": ["whole wheat flour", "potatoes", "spices", "ghee", "salt"],
+    "instructions": "Boil potatoes, mash, and mix with spices. Make a dough with whole wheat flour, water, and salt. Roll out dough, place potato mixture, seal, and roll into a flatbread. Cook on a griddle with ghee until golden. Serve hot with yogurt or chutney."
+  },
+  {
+    "name": "Rasgulla",
+    "ingredients": ["milk", "lemon juice", "sugar", "water", "rose water"],
+    "instructions": "Boil milk, add lemon juice to curdle. Strain, wash, and knead to form smooth balls. Boil sugar and water, add balls, and cook until doubled in size. Soak in rose water syrup and chill before serving."
+  },
+  {
+    "name": "Chicken Curry",
+    "ingredients": ["chicken", "onion", "tomato", "yogurt", "spices", "ginger", "garlic", "coriander leaves"],
+    "instructions": "Sauté onion, ginger, and garlic. Add chopped tomato and spices, cook until soft. Add chicken pieces and yogurt, cook until tender. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": ["potatoes", "peas", "bell peppers", "onion", "tomato", "spices", "butter", "pav bread"],
+    "instructions": "Boil potatoes, mash, and cook with peas, bell peppers, onion, tomato, and spices. Mash until thick. Toast pav bread with butter. Serve hot with bhaji, chopped onion, and lemon wedges."
+  },
+  {
+    "name": "Matar Paneer",
+    "ingredients": ["paneer", "peas", "onion", "tomato", "cream", "spices", "ginger", "garlic", "coriander leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add peas and cubed paneer, simmer until heated through. Finish with cream and coriander leaves, and serve hot."
+  },
+  {
+    "name": "Gulab Jamun",
+    "ingredients": ["milk powder", "all-purpose flour", "ghee", "milk", "sugar", "cardamom powder", "rose water"],
+    "instructions": "Mix milk powder, flour, and ghee to form a dough. Shape into balls and fry until golden. Boil sugar, water, and cardamom powder to make syrup. Soak fried balls in syrup and add rose water before serving."
+  },
+  {
+    "name": "Dhokla",
+    "ingredients": ["gram flour", "semolina", "yogurt", "ginger", "green chili", "mustard seeds", "curry leaves", "asafoetida"],
+    "instructions": "Mix gram flour, semolina, yogurt, ginger-green chili paste, and salt to form a batter. Steam in a greased pan until cooked. Temper with mustard seeds, curry leaves, and asafoetida. Serve with chutney."
+  },
+  {
+    "name": "Fish Curry",
+    "ingredients": ["fish", "coconut milk", "onion", "tomato", "spices", "ginger", "garlic", "curry leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add coconut milk and fish pieces, simmer until fish is cooked. Garnish with curry leaves and serve hot with rice."
+  },
+  {
+    "name": "Vada Pav",
+    "ingredients": ["potatoes", "chickpea flour", "spices", "pav bread", "green chutney", "tamarind chutney", "fried green chili"],
+    "instructions": "Boil potatoes, mash, and mix with spices. Shape into balls and coat with chickpea flour batter. Deep fry until golden. Serve hot in pav bread with green chutney, tamarind chutney, and fried green chili."
+  },
+  {
+    "name": "Malai Kofta",
+    "ingredients": ["paneer", "potatoes", "cream", "spices", "cashews", "raisins", "onion", "tomato", "ginger", "garlic"],
+    "instructions": "Mix mashed paneer, potatoes, cream, and spices to form balls. Stuff with cashews and raisins. Sauté onion, ginger, and garlic. Add chopped tomato and spices, cook until soft. Add cream and kofta, simmer until heated through. Serve hot."
+  }
+   {
+    "name": "Paneer Butter Masala",
+    "ingredients": ["paneer", "butter", "onion", "tomato", "cream", "spices", "ginger", "garlic", "kasuri methi"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add cream and paneer cubes, simmer until heated through. Finish with butter and kasuri methi. Serve hot."
+  },
+  {
+    "name": "Chicken Biryani",
+    "ingredients": ["chicken", "rice", "yogurt", "onion", "tomato", "spices", "saffron", "mint leaves", "fried onions", "ghee"],
+    "instructions": "Marinate chicken in yogurt and spices. Parboil rice and layer it with cooked chicken, fried onions, mint leaves, and saffron-infused milk. Seal and cook until rice is tender. Serve hot with raita."
+  },
+  {
+    "name": "Pani Puri",
+    "ingredients": ["semolina", "potatoes", "chickpeas", "tamarind", "mint", "spices", "water"],
+    "instructions": "Prepare a dough with semolina and water. Roll out and cut into small circles, deep fry until crisp. Fill with mashed potatoes, chickpeas, tamarind chutney, and mint water. Serve immediately."
+  },
+  {
+    "name": "Veg Biryani",
+    "ingredients": ["mixed vegetables", "rice", "onion", "tomato", "spices", "saffron", "mint leaves", "fried onions", "ghee"],
+    "instructions": "Sauté mixed vegetables with spices until partially cooked. Parboil rice and layer it with cooked vegetables, fried onions, mint leaves, and saffron-infused milk. Seal and cook until rice is tender. Serve hot with raita."
+  },
+  {
+    "name": "Mutton Rogan Josh",
+    "ingredients": ["mutton", "yogurt", "onion", "tomato", "ginger", "garlic", "spices", "ghee", "saffron", "kewra water"],
+    "instructions": "Marinate mutton in yogurt and spices. Sauté onion, ginger, and garlic in ghee. Add tomato and spices, cook until oil separates. Add marinated mutton, water, and cook until tender. Finish with saffron-infused water and kewra water."
+  },
+  {
+    "name": "Chana Masala",
+    "ingredients": ["chickpeas", "onion", "tomato", "ginger", "garlic", "spices", "ghee", "coriander leaves"],
+    "instructions": "Soak chickpeas overnight, then pressure cook until tender. Sauté onion, ginger, and garlic until golden. Add spices and chopped tomato, cook until soft. Add cooked chickpeas and simmer. Garnish with coriander leaves before serving."
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "ingredients": ["chicken/mutton", "rice", "yogurt", "onion", "tomato", "spices", "saffron", "mint leaves", "fried onions", "ghee"],
+    "instructions": "Marinate meat in yogurt and spices. Parboil rice and layer it with cooked meat, fried onions, mint leaves, and saffron-infused milk. Seal and cook until rice is tender. Serve hot with raita."
+  },
+  {
+    "name": "Prawn Curry",
+    "ingredients": ["prawns", "coconut milk", "onion", "tomato", "spices", "ginger", "garlic", "curry leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add coconut milk and prawns, simmer until prawns are cooked. Garnish with curry leaves and serve hot with rice."
+  },
+  {
+    "name": "Aloo Matar",
+    "ingredients": ["potatoes", "peas", "onion", "tomato", "ginger", "garlic", "spices", "coriander leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add cubed potatoes and peas, simmer until vegetables are tender. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "yogurt", "onion", "tomato", "cream", "spices", "ginger", "garlic", "kasuri methi"],
+    "instructions": "Marinate chicken in yogurt and spices. Grill or cook until partially cooked. Prepare a sauce with onion, tomato, cream, and spices. Add cooked chicken to the sauce. Finish with kasuri methi and serve hot."
+  },
+  {
+    "name": "Vegetable Pakora",
+    "ingredients": ["mixed vegetables", "chickpea flour", "spices", "oil"],
+    "instructions": "Mix chopped vegetables with chickpea flour and spices to form a batter. Drop spoonfuls into hot oil and fry until golden brown. Serve hot with chutney or sauce."
+  },
+  {
+    "name": "Mushroom Masala",
+    "ingredients": ["mushrooms", "onion", "tomato", "cream", "spices", "ginger", "garlic", "coriander leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add sliced mushrooms and cream, simmer until mushrooms are cooked. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Soya Chaap",
+    "ingredients": ["soya chunks", "yogurt", "cream", "spices", "ginger", "garlic", "kasuri methi"],
+    "instructions": "Marinate soya chunks in yogurt and spices. Grill or cook until partially cooked. Prepare a sauce with cream, ginger, garlic, and spices. Add cooked soya chunks to the sauce. Finish with kasuri methi and serve hot."
+  },
+  {
+    "name": "Prawn Biryani",
+    "ingredients": ["prawns", "rice", "yogurt", "onion", "tomato", "spices", "saffron", "mint leaves", "fried onions", "ghee"],
+    "instructions": "Marinate prawns in yogurt and spices. Parboil rice and layer it with cooked prawns, fried onions, mint leaves, and saffron-infused milk. Seal and cook until rice is tender. Serve hot with raita."
+  },
+  {
+    "name": "Egg Curry",
+    "ingredients": ["eggs", "onion", "tomato", "yogurt", "spices", "ginger", "garlic", "coriander leaves"],
+    "instructions": "Hard boil eggs, then peel and cut in half. Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add yogurt and boiled eggs, simmer until heated through. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Tandoori Chicken",
+    "ingredients": ["chicken", "yogurt", "spices", "ginger-garlic paste", "lemon juice", "kasuri methi"],
+    "instructions": "Marinate chicken in yogurt, spices, ginger-garlic paste, and lemon juice. Grill or cook until fully cooked and charred. Sprinkle with kasuri methi and serve hot."
+  },
+  {
+    "name": "Kadhi Pakora",
+    "ingredients": ["yogurt", "gram flour", "onion", "spices", "fenugreek seeds", "curry leaves", "mustard seeds"],
+    "instructions": "Mix yogurt with gram flour and spices to form a smooth batter. Heat oil, add mustard seeds, fenugreek seeds, and curry leaves. Pour in the yogurt mixture and bring to a boil. Add fried pakoras and simmer until thickened. Serve hot with rice."
+  },
+  {
+    "name": "Chole Bhature",
+    "ingredients": ["chickpeas", "flour", "spices", "onion", "tomato", "ginger", "garlic", "amchur powder"],
+    "instructions": "Soak chickpeas overnight, then pressure cook until tender. Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Serve hot with deep-fried bhature."
+  },
+  {
+    "name": "Chicken Korma",
+    "ingredients": ["chicken", "yogurt", "onion", "tomato", "cream", "spices", "ginger", "garlic", "almonds"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add yogurt and cream, then add chicken pieces and simmer until tender. Garnish with almonds and serve hot."
+  },
+  {
+    "name": "Mutton Curry",
+    "ingredients": ["mutton", "onion", "tomato", "yogurt", "spices", "ginger", "garlic", "coriander leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add yogurt and mutton pieces, simmer until tender. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Fish Fry",
+    "ingredients": ["fish", "spices", "ginger", "garlic", "lemon juice", "oil"],
+    "instructions": "Marinate fish fillets with spices, ginger, garlic, and lemon juice. Let it marinate for a while. Heat oil in a pan and fry the fish until golden brown and crispy. Serve hot with lemon wedges."
+  },
+  {
+    "name": "Baingan Bharta",
+    "ingredients": ["eggplant", "onion", "tomato", "ginger", "garlic", "spices", "coriander leaves"],
+    "instructions": "Roast eggplant until charred and soft. Peel and mash the pulp. Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add mashed eggplant and simmer until flavors blend. Garnish with coriander leaves and serve hot."
+  },
+  {
+    "name": "Chicken 65",
+    "ingredients": ["chicken", "spices", "ginger", "garlic", "curry leaves", "chili", "corn flour", "lemon juice"],
+    "instructions": "Marinate chicken pieces with spices, ginger, garlic, curry leaves, chili, corn flour, and lemon juice. Deep fry until crispy and golden brown. Serve hot with onion rings and lemon wedges."
+  },
+  {
+    "name": "Rava Idli",
+    "ingredients": ["semolina", "yogurt", "mustard seeds", "curry leaves", "green chili", "fruit salt"],
+    "instructions": "Mix semolina, yogurt, and salt to form a thick batter. Temper mustard seeds, curry leaves, and green chili. Add to the batter along with fruit salt. Pour into greased idli molds and steam until cooked. Serve hot with chutney."
+  },
+  {
+    "name": "Tandoori Roti",
+    "ingredients": ["whole wheat flour", "water", "salt"],
+    "instructions": "Mix whole wheat flour, water, and salt to form a smooth dough. Divide into balls and roll out into thin circles. Cook on a hot tandoor or griddle until cooked and slightly charred. Brush with ghee and serve hot."
+  },
+  {
+    "name": "Pulao",
+    "ingredients": ["rice", "mixed vegetables", "spices", "onion", "tomato", "ginger", "garlic", "mint leaves"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add mixed vegetables and sauté briefly. Add rice and water, bring to a boil, then simmer until rice is cooked. Garnish with mint leaves and serve hot."
+  },
+  {
+    "name": "Sheer Khurma",
+    "ingredients": ["vermicelli", "milk", "sugar", "nuts", "cardamom", "ghee"],
+    "instructions": "Roast vermicelli in ghee until golden. Add milk, sugar, and cardamom powder, and cook until vermicelli is soft. Garnish with nuts and serve hot or chilled."
+  },
+  {
+    "name": "Rajma Masala",
+    "ingredients": ["kidney beans", "onion", "tomato", "ginger", "garlic", "spices", "ghee", "coriander leaves"],
+    "instructions": "Soak kidney beans overnight, then pressure cook until tender. Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add cooked kidney beans and simmer. Garnish with coriander leaves before serving."
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": ["mixed vegetables", "pav bread", "spices", "butter"],
+    "instructions": "Boil mixed vegetables until soft, then mash. Sauté with spices in butter until well combined. Toast pav bread with butter. Serve hot with bhaji, chopped onion, and lemon wedges."
+  },
+  {
+    "name": "Malai Paneer",
+    "ingredients": ["paneer", "cream", "onion", "tomato", "ginger", "garlic", "spices", "cashews"],
+    "instructions": "Sauté onion, ginger, and garlic until golden. Add chopped tomato and spices, cook until soft. Add cream and paneer cubes, simmer until heated through. Garnish with crushed cashews and serve hot."
+  },
+  {
+    "name": "Gajar Halwa",
+    "ingredients": ["carrots", "milk", "sugar", "ghee", "nuts", "cardamom"],
+    "instructions": "Grate carrots and cook in milk until soft. Add sugar and cook until thick. Stir in ghee, nuts, and cardamom powder. Serve hot or chilled."
+  },
+  {
+    "name": "Chettinad Chicken",
+    "ingredients": ["chicken", "coconut", "spices", "curry leaves", "ginger", "garlic", "shallots"],
+    "instructions": "Sauté shallots, ginger, and garlic until golden. Add spices and curry leaves, cook until fragrant. Add coconut milk and chicken pieces, simmer until chicken is cooked. Serve hot with rice or roti."
+  }
+]
